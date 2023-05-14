@@ -14,4 +14,5 @@ This project focuses on implementing various image pre-processing techniques to 
 •	To identify the direction of the lines.
 •	To detect whether the lines are white or yellow in color.
 
+# Contributors
 This project is collaborating with university groupmates, [@tanweikang02](https://github.com/tanweikang02) contributed on the Line Features Extraction

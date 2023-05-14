@@ -10,9 +10,12 @@ This project focuses on implementing various image pre-processing techniques to 
 3. **Traffic Cone Detection using Convex Hulls**: The Convex Hull algorithm is employed to detect and extract the boundaries of traffic cones within images. By analyzing the convex hulls of the detected objects, this project enables efficient detection and segmentation of traffic cones, which is vital for applications such as autonomous driving, road safety, and traffic monitoring.
 
 4. **Line Features Extraction using Hough Lines**: The Hough Lines algorithm is implemented to detect and extract straight lines from images. This feature is particularly useful for tasks such as lane detection, road mapping, and industrial inspection. By leveraging Hough Lines, this project will able to perform the following task:
-•	To identify the lines on the road.
-•	To identify the direction of the lines.
-•	To detect whether the lines are white or yellow in color.
+
+    • To identify the lines on the road.
+
+    • To identify the direction of the lines.
+
+    • To detect whether the lines are white or yellow in color.
 
 # Contributors
 This project is collaborating with university groupmates, [@tanweikang02](https://github.com/tanweikang02) contributed on the Line Features Extraction

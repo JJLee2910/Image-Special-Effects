@@ -16,6 +16,11 @@ This project focuses on implementing various image pre-processing techniques to 
     • To identify the direction of the lines.
 
     • To detect whether the lines are white or yellow in color.
+5. **Image Segmentation**: This project segments the important parts of an image from the background, aiding in object detection, accident prevention, lane change safety, and accurate parking. Detected obstacles are highlighted in the plotted image, while green lines indicate areas to avoid for the car..
 
 # Contributors
-This project is collaborating with university groupmates, [@tanweikang02](https://github.com/tanweikang02) contributed on the Line Features Extraction
+This project is collaborating with university groupmates as the following list:
+
+   [@tanweikang02](https://github.com/tanweikang02) contributed on the Line Features Extraction
+   
+   [@codyy6](https://github.com/codyy6) contributed on Image Segmentation
